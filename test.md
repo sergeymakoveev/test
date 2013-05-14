@@ -12,7 +12,7 @@
 # Заголовок # {: .toc}
 *hello* ^)
 
-```js
+``` {: lang=javascript}
         var onlevelchange = function(e) {
             console.warn("Battery level change: ", battery.level);
         };
