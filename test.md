@@ -1,7 +1,9 @@
 ---
 ---
 
-# Заголовок # {: .toc}
+# Заголовок
+{: .toc}
+
 * q
 * w
 * e
@@ -9,11 +11,12 @@
 * t
 * y
 
-# Заголовок # {: .toc}
+# Заголовок
+{: .toc}
 *hello* ^)
 
 ```
-        var onlevelchange = function(e) {
-            console.warn("Battery level change: ", battery.level);
-        };
+    var onlevelchange = function(e) {
+        console.warn("Battery level change: ", battery.level);
+    };
 ``` {: lang=javascript}
