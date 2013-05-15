@@ -1,3 +1,5 @@
 #markdown: maruku
 #markdown: redcarpet
 markdown: kramdown
+kramdown:
+  use_coderay: true
