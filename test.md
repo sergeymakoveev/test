@@ -1,10 +1,10 @@
 ---
 ---
-# sdfsfsdfsdfsdfsdf
-# Заголовок
+# h1-1
+# h1-2
 {: .toc}
 
-* qqq
+* q
 {: .aaaa}
 * w
 * e
@@ -12,13 +12,21 @@
 * t
 * y
 
-# Заголовок
+# h1-3
 {: .toc}
 ssssssssssssssssssssssssssss
 
 
 ~~~ js
-var onlevelchange = function(e) {
-    console.warn("Battery level change: ", battery.level);
+function test(args) {
+    console.log(args);
 };
 ~~~
+
+``` js
+function test(args) {
+    console.log(args);
+};
+```
+
+
