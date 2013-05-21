@@ -1,6 +1,7 @@
 ---
 ---
 # h1-1
+
 # h1-2
 {: .toc}
 
@@ -23,10 +24,16 @@ function test(args) {
 };
 ~~~
 
+
 ``` js
 function test(args) {
     console.log(args);
 };
 ```
 
+{% highlight js %}
+function test(args) {
+    console.log(args);
+};
+{% endhighlight %}
 
